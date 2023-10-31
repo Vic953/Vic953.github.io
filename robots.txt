@@ -4,4 +4,5 @@ Crawl-delay: 300
 User-agents: GPTBot
 Disallow: /
 
-Sitemap: Linkwb/dondesté.xml
+Sitemap: https://vic953.github.io/sitemap.xml
+
