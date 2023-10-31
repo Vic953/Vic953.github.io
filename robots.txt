@@ -1,7 +1,7 @@
-User-agents: *
+Users-agents: *
 Crawl-delay: 300
 
-User-agents: GPTBot
+Users-agents: GPTBot
 Disallow: /
 
 Sitemap: https://vic953.github.io/sitemap.xml
