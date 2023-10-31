@@ -1,0 +1,7 @@
+User-agents: *
+Crawl-delay: 300
+
+User-agents: GPTBot
+Disallow: /
+
+Sitemap: Linkwb/dondesté.xml
